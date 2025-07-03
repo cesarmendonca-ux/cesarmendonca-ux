@@ -148,7 +148,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:5001/api/users/6866aa853c30b91d19e525a1",
+					"raw": "http://localhost:5001/api/users/6866b4b18c6162ac2e340c47",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -157,7 +157,7 @@
 					"path": [
 						"api",
 						"users",
-						"6866aa853c30b91d19e525a1"
+						"6866b4b18c6162ac2e340c47"
 					]
 				}
 			},
