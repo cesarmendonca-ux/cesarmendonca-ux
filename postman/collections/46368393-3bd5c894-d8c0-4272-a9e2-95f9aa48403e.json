@@ -88,7 +88,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4NjZhYTg1M2MzMGI5MWQxOWU1MjVhMSIsImlhdCI6MTc1MTU2MTI5Mn0.I6DG1wMGBq6I4s4sJUkuxsa-kZD4poMqKqrX2An26ZY",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4NjZiNGIxOGM2MTYyYWMyZTM0MGM0NyIsImlhdCI6MTc1MTU2MTQxNX0.1Z5TyVFk5OyQ8Y2pTTDKdnAcu-JiR_Hi1gbxgVSDutE",
 							"type": "string"
 						}
 					]
