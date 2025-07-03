@@ -19,7 +19,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"username\": \"Paulo\",\r\n  \"email\": \"paulo@example.com\",\r\n  \"password\": \"suaSenhaSegura\"\r\n}",
+					"raw": "{\r\n  \"username\": \"Paolo\",\r\n  \"email\": \"paolo@example.com\",\r\n  \"password\": \"suaSenhaSegura\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
