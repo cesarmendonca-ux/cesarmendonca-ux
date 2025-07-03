@@ -84,10 +84,23 @@
 			},
 			"request": {
 				"auth": {
-					"type": "noauth"
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4NjZhYTg1M2MzMGI5MWQxOWU1MjVhMSIsImlhdCI6MTc1MTU2MTI5Mn0.I6DG1wMGBq6I4s4sJUkuxsa-kZD4poMqKqrX2An26ZY",
+							"type": "string"
+						}
+					]
 				},
 				"method": "GET",
-				"header": [],
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer 6866aa853c30b91d19e525a1",
+						"type": "text"
+					}
+				],
 				"body": {
 					"mode": "raw",
 					"raw": "",
@@ -98,7 +111,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:5001/api/users",
+					"raw": "http://localhost:5001/api/users/me",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -106,7 +119,8 @@
 					"port": "5001",
 					"path": [
 						"api",
-						"users"
+						"users",
+						"me"
 					]
 				}
 			},
