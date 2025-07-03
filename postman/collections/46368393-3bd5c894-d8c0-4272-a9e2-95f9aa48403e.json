@@ -53,7 +53,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"email\": \"joao@email.com\",\r\n  \"password\": \"123456\"\r\n}",
+					"raw": "{\r\n  \"name\": \"César\",\r\n  \"email\": \"cesar@example.com\",\r\n  \"password\": \"suaSenhaSegura\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
